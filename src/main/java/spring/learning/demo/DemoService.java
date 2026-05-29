@@ -1,5 +1,4 @@
-package spring.learning;
-
+package spring.learning.demo;
 
 // making service file to talk to db using repository file
 public class DemoService{

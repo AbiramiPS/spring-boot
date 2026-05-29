@@ -1,4 +1,4 @@
-package spring.learning;
+package spring.learning.demo;
 
 public class Main{
 public static void main(String[] args){

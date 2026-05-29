@@ -1,4 +1,4 @@
-package spring.learning;
+package spring.learning.demo;
 
 public class DemoRepository{
     String getAllTodos(){
